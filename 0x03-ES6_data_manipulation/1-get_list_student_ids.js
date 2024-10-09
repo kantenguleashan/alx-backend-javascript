@@ -62,6 +62,5 @@ export default function getListStudentIds(arr) {
 ~
 ~
 ~
-~
 -- INSERT --                                                                                                                                                                                                   1,1           All
 
